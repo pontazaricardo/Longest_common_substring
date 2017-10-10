@@ -1,0 +1,6 @@
+C:\Users\liwuen\Documents\GitHub\Longest_common_substring\longest_common_string\longest_common_string\bin\Debug\longest_common_string.exe.config
+C:\Users\liwuen\Documents\GitHub\Longest_common_substring\longest_common_string\longest_common_string\bin\Debug\longest_common_string.exe
+C:\Users\liwuen\Documents\GitHub\Longest_common_substring\longest_common_string\longest_common_string\bin\Debug\longest_common_string.pdb
+C:\Users\liwuen\Documents\GitHub\Longest_common_substring\longest_common_string\longest_common_string\obj\Debug\longest_common_string.csprojResolveAssemblyReference.cache
+C:\Users\liwuen\Documents\GitHub\Longest_common_substring\longest_common_string\longest_common_string\obj\Debug\longest_common_string.exe
+C:\Users\liwuen\Documents\GitHub\Longest_common_substring\longest_common_string\longest_common_string\obj\Debug\longest_common_string.pdb
