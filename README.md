@@ -2,6 +2,8 @@
 
 This is a project that shows how to find the longest common substring in an array of strings.
 
+![demo](/images/demo.gif?raw=true)
+
 ## Usage
 
 Just import the project to Visual Studio and rebuild.
